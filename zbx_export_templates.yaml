@@ -1,6 +1,6 @@
 zabbix_export:
-  version: '6.4'
-  template_groups:
+  version: '6.0'
+  groups:
     - uuid: 15155c95a3d048f4856272ae12fd42c5
       name: Patrice
     - uuid: e211bc7037224ae698133ce470303670
